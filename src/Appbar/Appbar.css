@@ -1,0 +1,62 @@
+.rectangle5732 {
+    box-sizing: border-box;
+
+    /* position: absolute; */
+    width: 108px;
+    height: 721px;
+    left: -23px;
+    top: -16px;
+
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+}
+
+.rectangle5736 {
+    /* position: absolute; */
+    width: 85px;
+    height: 71px;
+    left: 0px;
+    top: 0px;
+
+    background: #29B712;
+}
+
+.plusSign {
+    /* position: relative; */
+    width: 23px;
+    height: 0px;
+    left: 27px;
+    top: 103px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 0%;
+    /* identical to box height, or 0px */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.plusSignText {
+    /* position: relative; */
+    width: 43px;
+    height: 140px;
+    left: 17px;
+    top: 86px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 880%;
+    /* or 88px */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.3);
+}
+
+
